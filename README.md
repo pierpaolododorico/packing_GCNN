@@ -1,2 +1,2 @@
 # packing_GCNN
-Master thesis code
+Master thesis
